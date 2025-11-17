@@ -11,6 +11,7 @@ right=0.5in]{geometry}              % specify right page margin
 \usepackage{enumitem}               % enable lists for bullet points: itemize and \item
 \usepackage[hidelinks]{hyperref}    % format hyperlinks
 \usepackage{titlesec}               % enable section title customization
+\usepackage{xcolor}                 % enable colors
 \raggedright                        % disable text justification
 \pagestyle{empty}                   % disable page numbering
 
@@ -18,8 +19,11 @@ right=0.5in]{geometry}              % specify right page margin
 \input{glyphtounicode}
 \pdfgentounicode=1
 
-% format section headings: bolding, size, white space above and below
-\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+% define a nice professional green color
+\definecolor{professionalgreen}{RGB}{34, 139, 34}
+
+% format section headings: bolding, size, white space above and below, with green color
+\titleformat{\section}{\bfseries\large\color{professionalgreen}}{}{0pt}{}[\vspace{1pt}{\color{professionalgreen}\titlerule}\vspace{-6.5pt}]
 
 % format bullet points: size, white space above and below, white space between bullets
 \renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
@@ -34,7 +38,7 @@ right=0.5in]{geometry}              % specify right page margin
 \vspace{5pt}
 
 % contact information
-\centerline{marcoshornogarcia@gmail.com}
+\centerline{\color{professionalgreen}marcoshornogarcia@gmail.com}
 
 \vspace{-10pt}
 
@@ -86,8 +90,6 @@ right=0.5in]{geometry}              % specify right page margin
 % education section
 \section*{Education}
 \textbf{Universitat Oberta de Catalunya} -- Bachelor's in Computer Software Engineering  \hfill 2025 \\
-Matricula de Honor (Highest Distinction, 9.5/10) on Final Degree Project \\
-\vspace{5pt}
-\textbf{CPR Afundacion} -- Higher Vocational Training in Cross-platform Application Development \hfill 2019
+\textit{Final Degree Project: Highest Honors (9.5/10)}
 
 \end{document}cv.tex
