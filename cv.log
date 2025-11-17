@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  17 NOV 2025 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  17 NOV 2025 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -301,22 +301,22 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 53.
+(Font)              <10.95> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 53.
+(Font)              <8> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 53.
+(Font)              <6> on input line 46.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 53.
+(Font)              scaled to size 10.0pt on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 53.
+(Font)              <7> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 53.
+(Font)              <5> on input line 46.
 
 
 [1
 
-{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc}{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./cv.aux)
+{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc}] (./cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -325,18 +325,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9985 strings out of 473190
- 162634 string characters out of 5697562
- 585151 words of memory out of 5000000
- 33129 multiletter control sequences out of 15000+600000
- 594973 words of font info for 56 fonts, out of 8000000 for 9000
+ 9981 strings out of 473190
+ 162585 string characters out of 5697562
+ 578151 words of memory out of 5000000
+ 33127 multiletter control sequences out of 15000+600000
+ 594659 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,628b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on cv.pdf (1 page, 161822 bytes).
+ 75i,5n,79p,337b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb></var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on cv.pdf (1 page, 128540 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
