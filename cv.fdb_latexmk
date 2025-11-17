@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763417139.91966 "/var/home/ari/Projects/CV/cv.tex" "cv.pdf" "cv" 1763417140.6074 0
-  "/var/home/ari/Projects/CV/cv.tex" 1763417118.31586 5020 e5fc95ef0d5d64d9e709643bc78840d5 ""
+["pdflatex"] 1763418149.39242 "/var/home/ari/Projects/CV/cv.tex" "cv.pdf" "cv" 1763418150.10351 0
+  "/var/home/ari/Projects/CV/cv.tex" 1763418149.14005 5015 ef7303605b8a7f61e06440e463277321 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc" 1741388039 3163 fbe7a051c6788c203614493dc165f2e9 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -76,9 +76,9 @@
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1741388039 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346153 3058e1e348ba6776d0a6705cd449742a ""
-  "cv.aux" 1763417140.53661 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "cv.out" 1763417140.39299 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1763417118.31586 5020 e5fc95ef0d5d64d9e709643bc78840d5 ""
+  "cv.aux" 1763418150.01971 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv.out" 1763418149.85871 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1763418149.14005 5015 ef7303605b8a7f61e06440e463277321 ""
   (generated)
   "cv.aux"
   "cv.log"
