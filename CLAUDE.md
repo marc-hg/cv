@@ -1,5 +1,9 @@
 # CV Creation Guidelines for Marcos Horno
 
+## How to compile tex to pdf
+- Have texlive installed
+- Run `pdflatex ./cv.tex`
+
 ## Personal Information
 - **Name:** Marcos Horno (using shortened version, not "Marcos Horno Garcia")
 - **Email:** marcoshornogarcia@gmail.com
